@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    background-color: black;
+}
+
+.component {
+    padding-top: 5%;
+}
+
+.delete {
+    color: red;
+}
+
+.mat-header-cell {
+    font-size: 25px;
+    color: black;
+    background-color: purple;
+}

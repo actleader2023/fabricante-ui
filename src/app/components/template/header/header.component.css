@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: purple;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.header .logo {
+    max-height: 75px;
+}
+
+.header > .title-app {
+    color: black;
+}
+
+.header > .title-group {
+    margin: 0px 0px 0px 0px;
+}

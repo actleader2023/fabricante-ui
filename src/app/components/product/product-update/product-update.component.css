@@ -1,0 +1,33 @@
+form {
+    display: flex;
+    flex-direction: row;
+}
+
+button {
+    margin: 15px 15px 0px 0px;
+}
+
+mat-card {
+    background-color: black;
+}
+
+mat-card > .title {
+    margin: 0px 0px 20px 0px;
+}
+
+.btn-save {
+    background-color: purple;
+}
+
+.btn-goback {
+    background-color: purple;
+}
+
+.field-name {
+    margin: 0px 50px 0px 0px;
+    width: 35%;
+}
+
+.field-price {
+    margin: 0px 0px 0px 0px;
+}

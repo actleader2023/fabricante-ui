@@ -1,0 +1,25 @@
+.title {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.1;
+}
+
+.subtitle {
+    font-size: 1.1rem;
+}
+
+mat-card {
+    display: flex;
+    background-color: black;
+}
+
+.home {
+    margin-bottom: 28px;
+    flex-direction: column;
+}
+
+.logo {
+    justify-content: center;
+    background-color: white !important;
+    color: white;
+}

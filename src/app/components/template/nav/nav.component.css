@@ -1,0 +1,36 @@
+.sidenav-container {
+    display: flex;
+    height: 100%;
+    background-color: white;
+}
+
+.sidenav {
+    background-color: rgb(0, 0, 0);
+    width: 250px;
+    position: absolute;
+}
+
+.sidenav a {
+}
+
+.sidenav i {
+    padding-right: 12px;
+}
+
+.content {
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+.button-open-sidenav {
+    display: contents;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+.mat-drawer-container {
+    display: inline;
+}

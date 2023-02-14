@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.purple {
+    color: purple;
+}
+
+.v-middle {
+    vertical-align: middle;
+}
+
+app-nav {
+    position: sticky
+}
+
+.greenSnackBar {
+    background-color: green;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 100;
+}
+
+.redSnackBar {
+    background-color: red;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 100;
+}
